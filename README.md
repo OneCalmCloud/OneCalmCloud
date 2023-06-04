@@ -3,7 +3,7 @@
 
 
 
-| <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=OneCalmCloud&show_icons=true&theme=dracula" alt="wangyang0210's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneCalmCloud&layout=compact" /> </a> | 
+| <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=OneCalmCloud&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="OneCalmCloud's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneCalmCloud&layout=compact&theme=buefy&hide_border=true" /> </a> | 
 | ------------- | ------------- |
 
 
