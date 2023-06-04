@@ -1,6 +1,6 @@
 ### Hi 这里是云小逸 👋
 
-| <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=OneCalmCloud&show_icons=true&include_all_commits=true&theme=flag-india&hide_border=true" alt="OneCalmCloud's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneCalmCloud&layout=compact&theme=dracula&hide_border=true" /> </a> | 
+| <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=OneCalmCloud&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="OneCalmCloud's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneCalmCloud&layout=compact&theme=dracula&hide_border=true" /> </a> | 
 | ------------- | ------------- |
 
 
